@@ -1,7 +1,7 @@
-# OpenSaysMe
-# Author: Marcia K Wilbur
-# Date: 2/2025
-# This is just the beginning!
+# OpenSesame
+## Author: Marcia K Wilbur
+## Date: 2/2025
+## This is just the beginning!
 
 Voice activated open terminal or launch terminal using vosk, kaldi and pretrained model. For different languages, get and set path for other models.
 
