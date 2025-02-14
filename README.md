@@ -123,5 +123,5 @@ Now you’re ready to control your Linux system using voice commands.
     Example: Users might want to take screen capture in the background with scrot
 
 Also: add and restore abandoned Software.
-
+fuly customizale!
 
