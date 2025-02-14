@@ -52,9 +52,7 @@ Run the script, speak into the microphone, and say "open terminal" to launch the
 ============================================
 
 #  openSesame - Installation & User Guide
-```
 ## Author: Marcia Wilbur
-
 ### Installation
 #### Step 1: Install Dependencies
 Run the following command to install required packages:
