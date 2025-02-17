@@ -1,4 +1,6 @@
-# OpenSesame
+# OpenSeshell
+name change due to existing opensesame project
+
 ## Author: Marcia K Wilbur
 ## Date: 2/2025
 ## This is just the beginning!
