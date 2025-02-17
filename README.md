@@ -1,6 +1,9 @@
 # OpenSeshell
 name change due to existing opensesame project
 
+Project is now found at:
+https://github.com/mkwilbux/Seshell
+
 ## Author: Marcia K Wilbur
 ## Date: 2/2025
 ## This is just the beginning!
